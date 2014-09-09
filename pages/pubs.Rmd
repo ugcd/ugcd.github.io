@@ -24,7 +24,7 @@ cite_options(max.names = 2, hyperlink = TRUE, style = "markdown")
 articles <- read.bibtex("bib/articles.bib")
 ```
 
-```{r fake_citing, results = "hide"}
+```{r, results = "hide"}
 for(i in 1:length(articles)) {
   citet(articles[[i]])
 } 
@@ -35,4 +35,20 @@ bibliography(sorting = 'ydnt') # sort by year, descending, then name, title
 cleanbib()
 ```
 
+## Conferences
+
+```{r}
+conferences <- read.bibtex("bib/conferences.bib")
+```
+
+```{r, results = "hide"}
+for(i in 1:length(conferences)) {
+  citet(conferences[[i]])
+} 
+```
+
+```{r, results = "asis"}
+bibliography(sorting = 'ydnt') # sort by year, descending, then name, title
+cleanbib()
+```
 
