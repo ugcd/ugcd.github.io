@@ -15,7 +15,14 @@ library(knitcitations)
 ```{r knitcitations}
 #cite_options(linked = TRUE)
 #cite_options(tooltip = TRUE)
-cite_options(max.names = 2, hyperlink = TRUE, style = "markdown")
+cite_options(max.names = 20, hyperlink = TRUE, style = "markdown")
+```
+
+```{r}
+print_bib <- function()
+{
+  bibliography(sorting = 'ydnt', max.names = 20, no.print.fields = c("url")) # sort by year, descending, then name, title
+}
 ```
 
 ## Articles
@@ -31,7 +38,7 @@ for(i in 1:length(articles)) {
 ```
 
 ```{r, results = "asis"}
-bibliography(sorting = 'ydnt') # sort by year, descending, then name, title
+print_bib()
 cleanbib()
 ```
 
@@ -48,7 +55,7 @@ for(i in 1:length(conferences)) {
 ```
 
 ```{r, results = "asis"}
-bibliography(sorting = 'ydnt') # sort by year, descending, then name, title
+print_bib()
 cleanbib()
 ```
 
