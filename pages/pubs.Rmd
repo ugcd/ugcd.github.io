@@ -37,7 +37,7 @@ for(i in 1:length(articles)) {
 } 
 ```
 
-```{r, results = "asis"}
+```{r print_articles, results = "asis"}
 print_bib()
 cleanbib()
 ```
@@ -54,7 +54,7 @@ for(i in 1:length(conferences)) {
 } 
 ```
 
-```{r, results = "asis"}
+```{r print_conf, results = "asis"}
 print_bib()
 cleanbib()
 ```
