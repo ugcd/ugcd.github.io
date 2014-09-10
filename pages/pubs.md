@@ -9,11 +9,13 @@ title: Publications of the group
 
 
 
+
+
 ## Articles
 
 
 
-### 2011 -- 2014
+### 2011 --- 2014
 
 [1] J. C. Souto, G. Pena, A. Ziyatdinov, A. Buil, S. Lopéz, J.
 Fontcuberta and J. M. Soria. "A genomewide study of body mass
@@ -34,7 +36,7 @@ genome-wide linkage analysis to identify quantitative trait
 loci.". In: _PloS one_ 7.8 (Jan. 2012), p. e42711. ISSN:
 1932-6203. DOI: 10.1371/journal.pone.0042711.
 
-### * -- 2010
+### * --- 2010
 
 [1] L. Vila, A. Martinez-Perez, M. Camacho, A. Buil, S. Alcolea,
 N. Pujol-Moix, M. Soler, R. Antón, J. Souto, J. Fontcuberta and J.

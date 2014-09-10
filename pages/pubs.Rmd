@@ -13,25 +13,34 @@ library(RefManageR)
 ```
 
 ```{r}
+bopts <- BibOptions(check.entries = FALSE)
+```
+
+```{r}
 print_bib <- function(bib)
 {
   print(bib, .opts = list(sorting = 'ydnt', max.names = 20, no.print.fields = c("url"))) # sort by year, descending, then name, title
+}
+
+read_bib <- function(file) 
+{
+  ReadBib(file)  
 }
 ```
 
 ## Articles
 
 ```{r}
-articles <- read.bibtex("bib/articles.bib")
+articles <- read_bib("bib/articles.bib")
 ```
 
-### 2011 -- 2014
+### 2011 --- 2014
 
 ```{r print_articles, results = "asis"}
 print_bib(articles[list(year = "2011/2014")])
 ```
 
-### * -- 2010
+### * --- 2010
 
 ```{r print_articles_2, results = "asis"}
 print_bib(articles[list(year = "/2010")])
@@ -40,7 +49,7 @@ print_bib(articles[list(year = "/2010")])
 ## Conferences
 
 ```{r}
-conferences <- read.bibtex("bib/conferences.bib")
+conferences <- read_bib("bib/conferences.bib")
 ```
 
 
