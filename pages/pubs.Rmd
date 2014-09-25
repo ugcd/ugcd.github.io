@@ -38,25 +38,25 @@ read_bib <- function(file)
 }
 ```
 
-## <a name="articles"></a>Journal Articles
+### <a name="articles"></a>Journal Articles
 
 ```{r}
 articles <- read_bib("bib/articles.bib")
 ```
 
-### 2011 --- 2014
+#### 2011 --- 2014
 
 ```{r print_articles, results = "asis"}
 print_bib(articles[list(year = "2011/2014")])
 ```
 
-### * --- 2010
+#### * --- 2010
 
 ```{r print_articles_2, results = "asis"}
 print_bib(articles[list(year = "/2010")])
 ```
 
-## <a name="conferences"></a>Conferences
+### <a name="conferences"></a>Conferences
 
 ```{r}
 conferences <- read_bib("bib/conferences.bib")

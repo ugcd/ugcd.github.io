@@ -4,7 +4,7 @@ title: Unit of Genomic of Complex Diseases
 ---
 
 
-## Contact
+### Contact
 
 Unit of Genomics of Complex Diseases  
 Institut de Recerca Hospital de la Santa Creu i Sant Pau  

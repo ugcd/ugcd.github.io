@@ -11,7 +11,7 @@ title: Talks
     </div>
 </div>
 
-## <a name="seminars"></a>Group Seminars
+### <a name="seminars"></a>Group Seminars
 
 To be updated.
 
