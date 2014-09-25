@@ -1,7 +1,17 @@
 ---
 layout: page
-title: Publications of the group
+title: Publications
 ---
+
+<div class="navbar">
+    <div class="navbar-inner">
+        <ul class="nav">
+            <li><a href="#articles">Journal Articles</a></li>
+            <li><a href="#conferences">Conferences</a></li>            
+        </ul>
+    </div>
+</div>
+
 
 ```{r setup, include = FALSE}
 opts_chunk$set(echo = FALSE, cache = FALSE, tidy = FALSE, warning = FALSE, message = FALSE)
@@ -28,7 +38,7 @@ read_bib <- function(file)
 }
 ```
 
-## Articles
+## <a name="articles"></a>Journal Articles
 
 ```{r}
 articles <- read_bib("bib/articles.bib")
@@ -46,7 +56,7 @@ print_bib(articles[list(year = "2011/2014")])
 print_bib(articles[list(year = "/2010")])
 ```
 
-## Conferences
+## <a name="conferences"></a>Conferences
 
 ```{r}
 conferences <- read_bib("bib/conferences.bib")

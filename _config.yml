@@ -8,8 +8,8 @@ highlighter: pygments
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : The UGCD website at github.io
-author : UGCD
+title : The UGCD group
+author : UGCD members
 
 production_url : http://ugcd.github.io
 

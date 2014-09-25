@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The UGCD website at github.io
+title: 
 ---
 
 

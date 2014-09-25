@@ -1,8 +1,16 @@
 ---
 layout: page
-title: Publications of the group
+title: Publications
 ---
 
+<div class="navbar">
+    <div class="navbar-inner">
+        <ul class="nav">
+            <li><a href="#articles">Journal Articles</a></li>
+            <li><a href="#conferences">Conferences</a></li>            
+        </ul>
+    </div>
+</div>
 
 
 
@@ -11,7 +19,9 @@ title: Publications of the group
 
 
 
-## Articles
+
+
+## <a name="articles"></a>Journal Articles
 
 
 
@@ -45,7 +55,7 @@ biosynthetic machinery in a Spanish population.". In:
 _Arteriosclerosis, thrombosis, and vascular biology_ 30.1 (Jan.
 2010), pp. 128-34. ISSN: 1524-4636.
 
-## Conferences
+## <a name="conferences"></a>Conferences
 
 
 
