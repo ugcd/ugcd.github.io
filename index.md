@@ -3,6 +3,9 @@ layout: page
 title: Unit of Genomic of Complex Diseases
 ---
 
+### About
+
+[Group page](http://www.iibsantpau.cat/portal/ca/iib/114005) at the web of Biomedical Research Institute Sant Pau.
 
 ### Contact
 
