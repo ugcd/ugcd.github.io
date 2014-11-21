@@ -13,6 +13,8 @@ title: Talks
 
 ### <a name="seminars"></a>Group Seminars
 
+* Andrey Ziyatdinov & Agnès Morera Bayó, Interpretation of salamboR models @ 23 May, 2014. [html](http://variani.github.io/talks/2014/02-interpret-salamboR-results/), [pdf](http://variani.github.io/talks/2014/02-interpret-salamboR-results/02-interpret-salamboR-results.pdf) 
+* 
 * Date: 11th March 2014 <br/>
   Tittle: **"Platelet glycoproteins & risk of thromboembolic disease: flow cytometry study for the GAIT2 Project"** <br/>    Presenters: Vázquez-Santiago, Miquel <br/>
   Department: Unitat de Genòmica i Malalties Complexes (UGMC) (Hospital de Sant Pau, Barcelona) <br/>
