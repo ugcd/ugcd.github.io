@@ -13,7 +13,9 @@ title: Talks
 
 ### <a name="seminars"></a>Group Seminars
 
-+ Date: 11th March 2014 <br/>
+* Date: 11th March 2014 <br/>
   Tittle: **"Platelet glycoproteins & risk of thromboembolic disease: flow cytometry study for the GAIT2 Project"** <br/>    Presenters: Vázquez-Santiago, Miquel <br/>
   Department: Unitat de Genòmica i Malalties Complexes (UGMC) (Hospital de Sant Pau, Barcelona) <br/>
   [``pdf``](https://github.com/ugcd/Central/blob/master/sessions/14.03.11.MYPLATELETS%26CITOMETRY.pdf?raw=true)
+
+* Andrey Ziyatdinov, Linear Mixed Models in QTL analysis @ 5 March, 2014. [html](http://variani.github.io/talks/2014/01-mixed-models-qtl/), [pdf](http://variani.github.io/talks/2014/01-mixed-models-qtl/mixed-models-qtl.pdf)
