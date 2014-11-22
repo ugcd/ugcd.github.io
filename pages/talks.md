@@ -13,7 +13,7 @@ title: Talks
 
 ### <a name="seminars"></a>Group Seminars
 
-### 2014
+#### 2014
 
 * Andrey Ziyatdinov & Agnès Morera Bayó, Interpretation of salamboR models @ 23 May, 2014. [html](http://variani.github.io/talks/2014/02-interpret-salamboR-results/), [pdf](http://variani.github.io/talks/2014/02-interpret-salamboR-results/interpret-salamboR-results.pdf) 
 
@@ -24,6 +24,6 @@ title: Talks
 
 * Andrey Ziyatdinov, Linear Mixed Models in QTL analysis @ 5 March, 2014. [html](http://variani.github.io/talks/2014/01-mixed-models-qtl/), [pdf](http://variani.github.io/talks/2014/01-mixed-models-qtl/mixed-models-qtl.pdf)
 
-### 2013
+#### 2013
 
 * Andrey Ziyatdinov & Angel Martinez-Perez, Salambo Bioinformatics Platform. Part #2: Case Study @ 9 April, 2013. [html](http://variani.github.io/talks/2013/01-salamboR-part2/), [pdf](http://variani.github.io/talks/2013/01-salamboR-part2/salamboR-part2.pdf) 
