@@ -15,6 +15,6 @@ title: The GAIT2 project
 
 Figures:
 
-* Association mapping heatmap, MAF >= 0.01, [genome-wide suggestive level < 1e-5](({{ site.baseurl }}/reports/assoc-mapping2/heatmap1.html) 
-* Association mapping heatmap, MAF >= 0.01, [genome-wide significant level < 5e-8](({{ site.baseurl }}/reports/assoc-mapping2/heatmap1.html)
+* Association mapping heatmap, MAF >= 0.01, [genome-wide suggestive level < 1e-5]({{ site.baseurl }}/reports/assoc-mapping2/heatmap1.html) 
+* Association mapping heatmap, MAF >= 0.01, [genome-wide significant level < 5e-8]({{ site.baseurl }}/reports/assoc-mapping2/heatmap1.html)
 
