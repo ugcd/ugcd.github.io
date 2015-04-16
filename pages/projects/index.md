@@ -6,7 +6,7 @@ title: Project
 <div class="navbar">
     <div class="navbar-inner">
         <ul class="nav">
-            <li><a href="#gait2">GAIT2</a></li>
+            <li><a href="{{ BASE_PATH }}/pages/projects/gait2/">GAIT2</a></li>
         </ul>
     </div>
 </div>
