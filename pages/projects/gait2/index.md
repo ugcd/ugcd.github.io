@@ -17,7 +17,7 @@ title: The GAIT2 project
 
 Figures:
 
-* Heatmap _traits vs. SNPs_, MAF >= 0.01, [genome-wide suggestive level < 1e-5]({{ site.baseurl }}/reports/assoc-mapping2/heatmap1.html) 
-* Heatmap _traits vs. SNPs_, MAF >= 0.01, [genome-wide significant level < 5e-8]({{ site.baseurl }}/reports/assoc-mapping2/heatmap2.html)
-* Scoreplot _h2r vs. #SNPs_, MAF >= 0.01, [genome-wide suggestive level < 1e-5]({{ site.baseurl }}/reports/assoc-mapping2
+* [Heatmap]({{ site.baseurl }}/reports/assoc-mapping2/heatmap1.html) _traits vs. SNPs_, MAF >= 0.01, genome-wide suggestive level < 1e-5 
+* [Heatmap]({{ site.baseurl }}/reports/assoc-mapping2/heatmap2.html) _traits vs. SNPs_, MAF >= 0.01, genome-wide significant level < 5e-8
+* [Scoreplot]({{ site.baseurl }}/reports/assoc-mapping2/scoreplot.html) _h2r vs. #SNPs_, MAF >= 0.01
 
