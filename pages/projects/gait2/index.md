@@ -20,8 +20,8 @@ The results are stored in the private repository of the group [GAIT2](https://gi
 directory [projects/02-assoc-mapping2-matrix](https://github.com/ugcd/GAIT2/tree/master/projects/02-assoc-mapping2-matrix).
 Some of the reports are: 
 
-* Manhattan plots produced for all traits under study [link to download PDF](https://github.com/ugcd/GAIT2/raw/master/projects/02-assoc-mapping2-matrix/output/assoc/manhattan.A.maf001.mapping2.gait2.matrix.pdf).
-
+* Manhattan plots produced for all traits under study, [link to download PDF](https://github.com/ugcd/GAIT2/raw/master/projects/02-assoc-mapping2-matrix/output/assoc/manhattan.A.maf001.mapping2.gait2.matrix.pdf).
+* Directory [projects/02-assoc-mapping2-matrix/output/assoc/] contains _CSV_ tables with all the association results.
 
 Public figures:
 
