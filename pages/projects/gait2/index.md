@@ -16,7 +16,7 @@ title: The GAIT2 project
 ### <a name="assoc"></a>QTL association mapping
 
 Around a hundred traits were mapped using around 10 millions of SNPs.
-The ultra-fast [MatrixeQTL](http://www.bios.unc.edu/research/genomic_software/Matrix_eQTL/) method
+The ultra-fast score-based GLS method [MatrixeQTL](http://www.bios.unc.edu/research/genomic_software/Matrix_eQTL/)
 allowed to efficiently evaluate the association models.
 
 * [Heatmap]({{ site.baseurl }}/reports/assoc-mapping2/heatmap2.html) _traits vs. SNPs_, MAF >= 0.01, genome-wide significant level < 5e-8
@@ -30,4 +30,5 @@ Some links of the interest (all to the private group repository):
 * Manhattan plots produced for all traits under study: [link to download PDF](https://github.com/ugcd/GAIT2/raw/master/projects/02-assoc-mapping2-matrix/output/assoc/manhattan.A.maf001.mapping2.gait2.matrix.pdf).
 * Directory [output/assoc/](https://github.com/ugcd/GAIT2/tree/master/projects/02-assoc-mapping2-matrix/output/assoc) contains _CSV_ tables of the association results for all the traits.
 * Report [reports/01-comparison-F11/01-comparison-F11.md](https://github.com/ugcd/GAIT2/blob/master/projects/02-assoc-mapping2-matrix/reports/01-comparison-F11/01-comparison-F11.md) presents a comparison of GWAS results produced by LMM method and score-based GLS method (used here for QTL asssociation mapping).
+
 
