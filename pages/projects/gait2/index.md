@@ -19,9 +19,9 @@ Around a hundred traits were mapped using around 10 millions of SNPs.
 The ultra-fast score-based GLS method [MatrixeQTL](http://www.bios.unc.edu/research/genomic_software/Matrix_eQTL/)
 allowed to efficiently evaluate the association models.
 
-* [Heatmap]({{ site.baseurl }}/reports/assoc-mapping2/heatmap2.html) _traits vs. SNPs_, MAF >= 0.01, genome-wide significant level < 5e-8
-    * [Heatmap]({{ site.baseurl }}/reports/assoc-mapping2/static-heatmap1.html) _traits vs. SNPs_, MAF >= 0.01, genome-wide suggestive level < 1e-5 
-* [Scoreplot]({{ site.baseurl }}/reports/assoc-mapping2/scoreplot.html) _h2r vs. #SNPs_, MAF >= 0.01
+* [Interactive Heatmap]({{ site.baseurl }}/reports/assoc-mapping2/heatmap2.html) _traits vs. SNPs_, MAF >= 0.01, genome-wide significant level < 5e-8
+    * [Static Heatmap]({{ site.baseurl }}/reports/assoc-mapping2/static-heatmap1.html) _traits vs. SNPs_, MAF >= 0.01, genome-wide suggestive level < 1e-5 
+* [Interactive Scatterplot]({{ site.baseurl }}/reports/assoc-mapping2/scoreplot.html) _h2r vs. #SNPs_, MAF >= 0.01
 
 The results are stored in the private repository of the group [GAIT2](https://github.com/ugcd/GAIT2),
 directory [projects/02-assoc-mapping2-matrix](https://github.com/ugcd/GAIT2/tree/master/projects/02-assoc-mapping2-matrix).
