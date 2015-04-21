@@ -31,4 +31,7 @@ Some links of the interest (all to the private group repository):
 * Directory [output/assoc/](https://github.com/ugcd/GAIT2/tree/master/projects/02-assoc-mapping2-matrix/output/assoc) contains _CSV_ tables of the association results for all the traits.
 * Report [reports/01-comparison-F11/01-comparison-F11.md](https://github.com/ugcd/GAIT2/blob/master/projects/02-assoc-mapping2-matrix/reports/01-comparison-F11/01-comparison-F11.md) presents a comparison of GWAS results produced by LMM method and score-based GLS method (used here for QTL asssociation mapping).
 
-
+_MatrixeQTL_ within GAIT2-specific settings showed consistent results 
+for the genome-wide significant signals,
+but the overall tendency was towards overestimation of the p-values.
+Thus, the reported signals need to be further recomputed with a more precise approach.
