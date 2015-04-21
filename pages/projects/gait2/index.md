@@ -15,9 +15,18 @@ title: The GAIT2 project
 
 ### <a name="assoc"></a>QTL asssociation mapping
 
-Figures:
 
-* [Heatmap]({{ site.baseurl }}/reports/assoc-mapping2/heatmap1.html) _traits vs. QTLs_, MAF >= 0.01, genome-wide suggestive level < 1e-5 
-* [Heatmap]({{ site.baseurl }}/reports/assoc-mapping2/heatmap2.html) _traits vs. QTLs_, MAF >= 0.01, genome-wide significant level < 5e-8
-* [Scoreplot]({{ site.baseurl }}/reports/assoc-mapping2/scoreplot.html) _h2r vs. #QTLs_, MAF >= 0.01
+Public figures:
+
+* [Heatmap]({{ site.baseurl }}/reports/assoc-mapping2/heatmap2.html) _traits vs. SNPs_, MAF >= 0.01, genome-wide significant level < 5e-8
+    * [Heatmap]({{ site.baseurl }}/reports/assoc-mapping2/static-heatmap1.html) _traits vs. SNPs_, MAF >= 0.01, genome-wide suggestive level < 1e-5 
+* [Scoreplot]({{ site.baseurl }}/reports/assoc-mapping2/scoreplot.html) _h2r vs. #SNPs_, MAF >= 0.01
+
+The results are stored in the private repository of the group [GAIT2](https://github.com/ugcd/GAIT2),
+directory [projects/02-assoc-mapping2-matrix](https://github.com/ugcd/GAIT2/tree/master/projects/02-assoc-mapping2-matrix).
+
+Some of the reports are: 
+
+* Manhattan plots produced for all traits under study [link to download PDF](https://github.com/ugcd/GAIT2/raw/master/projects/02-assoc-mapping2-matrix/output/assoc/manhattan.A.maf001.mapping2.gait2.matrix.pdf).
+
 
