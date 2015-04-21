@@ -34,4 +34,6 @@ Some links of the interest (all to the private group repository):
 _MatrixeQTL_ within GAIT2-specific settings showed consistent results 
 for the genome-wide significant signals,
 but the overall tendency was towards overestimation of the p-values.
-Thus, the reported signals need to be further recomputed with a more precise approach.
+Thus, the reported signals are needed to be further refined with a more precise approach.
+In general, the prioritization of SNPs produced by _MatrixeQTL_ is a good starting point 
+to attack the large-scale problem of QTL mapping.
