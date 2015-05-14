@@ -41,13 +41,14 @@ read_bib <- function(file)
 ### <a name="articles"></a>Journal Articles
 
 ```{r}
-articles <- read_bib("bib/articles.bib")
+#articles <- read_bib("bib/articles.bib")
+articles <- read_bib("bib/articles.pubmed.bib")
 ```
 
 #### 2011 --- 2014
 
 ```{r print_articles, results = "asis"}
-print_bib(articles[list(year = "2011/2014")])
+print_bib(articles[list(year = "2011/2015")])
 ```
 
 #### * --- 2010
