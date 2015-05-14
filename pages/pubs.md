@@ -23,9 +23,12 @@ title: Publications
 
 ### <a name="articles"></a>Journal Articles
 
+Source: [ncbi.nlm.nih.gov/pubmed?term=soria,%20jose%20manuel](http://www.ncbi.nlm.nih.gov/pubmed?term=soria,%20jose%20manuel&cmd=correctspelling).
 
 
-#### 2011 --- 2014
+
+
+#### 2011 --- 2015
 
 [1] J. M. Soria and S. Lopez. "[The genetics of thrombosis in
 cancer]". In: _Med Clin (Barc)_ 144 Suppl 1 (Jan. 2015).
