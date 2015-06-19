@@ -3,6 +3,7 @@ layout: page
 title: The GAIT2 project
 ---
 
+<!--
 <div class="navbar">
     <div class="navbar-inner">
         <ul class="nav">
@@ -10,6 +11,7 @@ title: The GAIT2 project
         </ul>
     </div>
 </div>
+-->
 
 ### <a name="about"></a>About
 
