@@ -3,7 +3,6 @@ layout: page
 title: The GAIT2 project
 ---
 
-<!--
 <div class="navbar">
     <div class="navbar-inner">
         <ul class="nav">
@@ -11,7 +10,20 @@ title: The GAIT2 project
         </ul>
     </div>
 </div>
--->
+
+### <a name="about"></a>About
+
+In GAIT2, we recruited 935 individuals grouped in 35 pedigrees, 
+with on average of 27 individuals per pedigree and a  total of 8654 related pairs. 
+All families have at least 10 living individuals in three or more generations, 
+and were recruited and  selected as part of a study on idiopathic thrombophilia 
+with an age range of 3 to 101 years (mean 40). 
+Hundreds of quantitative phenotypes were measured at time of recruitment, 
+including anthropometric measurements, hemogram, hemostasis traits, 
+as well as phenotypes related with platelets, platelet activity, homocysteine metabolism, 
+inflammation, and flow cytometry of leukocytes and microparticles. 
+Genotypes obtained from a mix of Illumina 1M and Illumina 500K chips were imputed into a 1000 genomes reference panel. 
+We sequenced the mRNA transcriptome from whole blood for all the individuals, at the time of collection not medicated for thrombophilia.
 
 ### <a name="assoc"></a>QTL association mapping
 
