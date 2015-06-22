@@ -25,7 +25,7 @@ including anthropometric measurements, hemogram, hemostasis traits,
 as well as phenotypes related with platelets, platelet activity, homocysteine metabolism, 
 inflammation, and flow cytometry of leukocytes and microparticles. 
 Genotypes obtained from a mix of Illumina 1M and Illumina 500K chips were imputed into a 1000 genomes reference panel. 
-We sequenced the mRNA transcriptome from whole blood for all the individuals, at the time of collection not medicated for thrombophilia.
+We also sequenced the mRNA transcriptome from whole blood for all the individuals.
 
 ### <a name="assoc"></a>QTL association mapping
 
