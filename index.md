@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Unit of Genomic of Complex Diseases
+title: Unit of Genomics of Complex Diseases
 ---
 
 ### About
