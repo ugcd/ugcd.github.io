@@ -7,7 +7,9 @@ title: Publications
     <div class="navbar-inner">
         <ul class="nav">
             <li><a href="#articles">Journal Articles</a></li>
+            <!--
             <li><a href="#conferences">Conferences</a></li>            
+            -->
         </ul>
     </div>
 </div>
@@ -48,26 +50,23 @@ Source: [ncbi.nlm.nih.gov/pubmed?term=soria,%20jose%20manuel](http://www.ncbi.nl
 articles <- read_bib("bib/articles.pubmed.bib")
 ```
 
-#### 2011 --- 2015
+#### 2012 --- 2016
 
 ```{r print_articles, results = "asis"}
-print_bib(articles[list(year = "2011/2015")])
+print_bib(articles[list(year = "2012/2016")])
 ```
 
-#### * --- 2010
+#### * --- 2011
 
 ```{r print_articles_2, results = "asis"}
-print_bib(articles[list(year = "/2010")])
+print_bib(articles[list(year = "/2011")])
 ```
-
-### <a name="conferences"></a>Conferences
 
 ```{r}
-conferences <- read_bib("bib/conferences.bib")
+#conferences <- read_bib("bib/conferences.bib")
 ```
 
-
 ```{r print_conf, results = "asis"}
-print_bib(conferences)
+#print_bib(conferences)
 ```
 
